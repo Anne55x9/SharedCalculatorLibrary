@@ -16,7 +16,7 @@ namespace SharedCalculatorLibrary
         public double Tal2 { get; set; }
 
         /// <summary>
-        /// Metode som er void hvori tal1 og tal 2 props plusses med hinanden. 
+        /// Metode som returnerer en double hvori tal1 og tal 2 props plusses med hinanden. 
         /// </summary>
 
         public double PlusFunktion()
@@ -25,7 +25,7 @@ namespace SharedCalculatorLibrary
         }
 
         /// <summary>
-        /// Metode som er void hvori tal1 og tal 2 props minus hinanden. 
+        /// Metode som returnerer en double hvori tal1 og tal 2 props minus hinanden. 
         /// </summary>
 
         public double MinusFunktion()
@@ -34,7 +34,7 @@ namespace SharedCalculatorLibrary
         }
 
         /// <summary>
-        /// Metode som er void hvori tal1 og tal 2 props ganges med hinanden. 
+        /// Metode som returnerer en double hvori tal1 og tal 2 props ganges med hinanden. 
         /// </summary>
 
         public double GangeFunktion()
@@ -43,7 +43,7 @@ namespace SharedCalculatorLibrary
         }
 
         /// <summary>
-        /// Metode som er void hvori tal1 og tal 2 props divideret med hinanden. 
+        /// Metode som retunerer en double hvori tal1 og tal 2 props divideret med hinanden. 
         /// </summary>
 
         public double DividerFunktion()
